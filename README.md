@@ -1,2 +1,2 @@
 # ERBB2_Antibosies_Classifier
-A pre-trained machin learning python model intgreded with bioinformatics can classify and test  the avilable atibodies for ERBB2 antigine.
+# A pre-trained machine learning python model integrated with bioinformatics can classify available antibodies for ERBB2 antigen. Its core process is classifying the DNA sequence of the antigen to get the available antibodies with the correct translation codon. It has trained by comparing millions of DNA sequencing for other valid antigens and gives the available antibodies by 98.3% as processing accuracy.
